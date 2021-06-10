@@ -1,0 +1,34 @@
+{
+  "estagiarios": [
+    {
+      "id": 1,
+      "nome": "Caio Lucas",
+      "idade": 22,
+      "email": "caiolfsantoss@gmail.com",
+      "telefone": "3483-5520",
+      "cpf": "123.456.789.12",
+      "sexo": "Masculino",
+      "data": "2021-05-30"
+    },
+    {
+      "id": 3,
+      "nome": "Golimar",
+      "idade": 40,
+      "email": "Golimar@gmail.com",
+      "telefone": "3483-2020",
+      "sexo": "masculino",
+      "cpf": "123.456.789.10",
+      "data": "28/09/1998"
+    },
+    {
+      "id": 7,
+      "nome": "Marcia",
+      "idade": 56,
+      "email": "marcia@gmail.com",
+      "telefone": "9958-5560",
+      "cpf": "000.000.000.00",
+      "sexo": "Feminino",
+      "data": "1965-06-29"
+    }
+  ]
+}

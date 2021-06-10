@@ -1,0 +1,37 @@
+http://localhost:3000/estagiarios
+
+###
+POST http://localhost:3000/estagiarios HTTP/1.1
+content-type: application/json
+
+{
+    "id": 3,
+    "nome": "Golimar",
+    "idade": 40,
+    "email": "Golimar@gmail.com",
+    "telefone": "3483-2020",
+    "sexo": "masculino",
+    "cpf": "123.456.789.10",
+     "data": "28/09/1998"
+}
+
+###
+PUT http://localhost:3000/estagiarios/2 HTTP/1.1
+content-type: application/json
+
+{
+    "id": 2,
+    "nome": "Yudi",
+    "idade": 27,
+    "email": "yudi@gmail.com",
+    "telefone": "4002-8922",
+    "sexo": "masculino",
+    "cpf": "123.456.789.11",
+    "data": "10/10/2010"
+}
+
+###
+DELETE  http://localhost:3000/estagiarios/3 HTTP/1.1
+content-type: application/json
+
+
